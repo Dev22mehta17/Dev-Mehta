@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Mehta</h1>
 <h3 align="center">I'm a third-year BTech CSE student with a passion for building innovative projects and solving challenging problems. Whether it's AI/ML or front-end wizardry, I love exploring new tech and bringing ideas to life. 🚀</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Dev22mehta17/Dev-Mehta/blob/main/image.gif
-">
+<img align="right" alt="coding" width="400" src="https://github.com/Dev22mehta17/Dev-Mehta/blob/main/image.gif ">
 
 - 🔭 I’m currently working on **Strengthening and refining my skill set to enhance professional capabilities and align with industry standards.**
 
